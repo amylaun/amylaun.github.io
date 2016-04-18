@@ -1,0 +1,15 @@
+$colors: (
+    'white': #FFFFFF,
+    'black': #000000,
+    'kiosk': #EC008B,
+    'error': red,
+    'borderColor': grey,
+    'fontColor': black,
+);
+
+$breakpoints: (
+    maxwidth: 1024px,
+    desktop: 1024px,
+    tablet: 780px,
+    mobile: 450px,
+);
