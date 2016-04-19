@@ -17,15 +17,5 @@ github_username:  amylaun
 # Build settings
 markdown: kramdown
 
-gems: [jekyll-assets, autoprefixer-rails]
-
-sass:
-    sass_dir: _assets/stylesheets/sass
-
-assets:
-  baseurl: http://amylaun.github.io/assets
-  sources:
-    - _assets/javascripts
-    - _assets/stylesheets
-  autoprefixer:
-    browsers: ["last 2 versions","> 5%","IE 9"]
+gems:
+  - octopress-autoprefixer
