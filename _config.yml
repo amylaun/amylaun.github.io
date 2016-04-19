@@ -19,6 +19,9 @@ markdown: kramdown
 
 gems: [jekyll-assets, autoprefixer-rails]
 
+sass:
+    sass_dir: _assets/stylesheets/sass
+
 assets:
   sources:
     - _assets/javascripts

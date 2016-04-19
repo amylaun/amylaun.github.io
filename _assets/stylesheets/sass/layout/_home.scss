@@ -1,0 +1,22 @@
+$homehero: #dcecec;
+
+.wrapper--hero {
+    text-transform: uppercase;
+    background-color: $homehero;
+    padding: 100px;
+    a,
+    .title {
+        text-shadow: 0px 3px 0px darken($homehero, 12%);
+        color: darken($homehero, 6%);
+        font-size: 120px;
+        font-weight: bold;
+        line-height: .9em;
+    }
+    .subtitle {
+        color: darken($homehero, 12%);
+        font-size: 40px;
+        text-shadow: none;
+        margin-top: 40px;
+        display: block;
+    }
+}
