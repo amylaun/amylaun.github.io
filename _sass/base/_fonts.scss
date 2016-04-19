@@ -1,13 +1,14 @@
 /* Fonts */
 $sans       : 'Montserrat', sans-serif;
+$serif		: 'Quattrocento', sans-serif;
 
 /* Weights */
-$light      : 300;
 $normal     : 400;
 $bold       : 700;
+
 /* Sizes */
 $fs1        : 3em;
-$fs2        : 2em;
+$fs2        : 1.75em;
 $fs3        : 1.5em;
 $fs4        : 1em;
 $paraSize   : 1em;
@@ -26,14 +27,14 @@ h1, .h1 {
 	font-weight : $bold;
 	font-family : $sans;
 	line-height : 1.3em;
+	text-transform: uppercase;
 }
 h2, .h2 {
+	font-family : $sans;
 	font-size   : $fs2;
 	font-weight : $bold;
 	line-height : 1.1em;
-	padding-bottom  : 10px;
-	@include tablet { font-size: $fs2 * .75; }
-	@include mobile { font-size: $fs2 * .6; }
+	text-transform: uppercase;
 }
 h3, .h3 {
 	font-size   : $fs3;

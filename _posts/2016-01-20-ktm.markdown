@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Kiosk Tech Monthly"
+date:   2016-01-20 11:00:00 -0700
+categories: ktm notes
+---
+<h2>CSS</h2>
+<a href="https://github.com/postcss/autoprefixer" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://github.com/postcss/autoprefixer&amp;source=gmail&amp;ust=1461187346879000&amp;usg=AFQjCNG-zpSXF76ihfH7V3U3g4QCY4Lefg">Autoprefixer</a>
+<h2>Encryption</h2>
+<a href="http://www.digitaltrends.com/mobile/new-york-encryption-bill-news/" target="_blank" data-saferedirecturl="https://www.google.com/url?q=http://www.digitaltrends.com/mobile/new-york-encryption-bill-news/&amp;source=gmail&amp;ust=1461187346879000&amp;usg=AFQjCNEA1avCu1VjuEA_mlCU0-VKhL5ntA">Thanks, NY!</a>
+<h2>JavaScript</h2>
+<a href="https://leanpub.com/ember-cli-101" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://leanpub.com/ember-cli-101&amp;source=gmail&amp;ust=1461187346879000&amp;usg=AFQjCNGZehut2kUCrRw8yrOlcdzgYpoEPQ">Ember CLI 101</a>&nbsp;- it's free!<br>
+<a href="https://medium.com/@betable/tifu-by-using-math-random-f1c308c4fd9d#.la1ryw737" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://medium.com/@betable/tifu-by-using-math-random-f1c308c4fd9d%23.la1ryw737&amp;source=gmail&amp;ust=1461187346879000&amp;usg=AFQjCNEBB8Qr9sDfy-ugyMgSZlc8mg7tZA">Medium's article</a></h2><a href="http://v8project.blogspot.com/2015/12/theres-mathrandom-and-then-theres.html" target="_blank" data-saferedirecturl="https://www.google.com/url?q=http://v8project.blogspot.com/2015/12/theres-mathrandom-and-then-theres.html&amp;source=gmail&amp;ust=1461187346879000&amp;usg=AFQjCNGyf1zV-e4qMSLTUZPyAzp_Is2rPg">V8 Math.random() Response</a><br>
+<a href="http://www.html5rocks.com/en/tutorials/es6/promises/" target="_blank" data-saferedirecturl="https://www.google.com/url?q=http://www.html5rocks.com/en/tutorials/es6/promises/&amp;source=gmail&amp;ust=1461187346879000&amp;usg=AFQjCNFvNPAhWo4AQgpC7_iGrrPkYBCD7Q">Promises, Promises</a><br>Also, <a href="https://www.youtube.com/watch?v=WBupia9oidU" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://www.youtube.com/watch?v%3DWBupia9oidU&amp;source=gmail&amp;ust=1461187346879000&amp;usg=AFQjCNHOzS0M45z9S-S1J5rV-9wtvuiZHw">this</a>
+<h2>Pure Fun</h2><a href="http://tympanus.net/Development/SeatPreview/" target="_blank" data-saferedirecturl="https://www.google.com/url?q=http://tympanus.net/Development/SeatPreview/&amp;source=gmail&amp;ust=1461187346879000&amp;usg=AFQjCNElXTs-Peb8J-eO8Ada24UKqPRnMQ">Choose Your Seats!</a><br>
+<a href="https://www.ted.com/talks/guillaume_nery_the_exhilarating_peace_of_freediving?language=en" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://www.ted.com/talks/guillaume_nery_the_exhilarating_peace_of_freediving?language%3Den&amp;source=gmail&amp;ust=1461187346879000&amp;usg=AFQjCNHDFG1PrlMNT7VGQjAxoKqCElD1Uw">How to die very peacefully, according to this guy, via Susan</a><br><a href="https://en.wikipedia.org/wiki/The_Big_Blue" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://en.wikipedia.org/wiki/The_Big_Blue&amp;source=gmail&amp;ust=1461187346879000&amp;usg=AFQjCNGWpY4X9dj51J17Vz4horT9w1427g">Probably related</a>, very good, but deliberate
+<h2>Sysadmin</h2><a href="https://mmonit.com/monit/" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://mmonit.com/monit/&amp;source=gmail&amp;ust=1461187346879000&amp;usg=AFQjCNEUcmMMgv0BZ1lzc5NvDwllOraHpg">Monit</a>
+<h2>Web Dev</h2><a href="http://caniuse.com/" target="_blank" data-saferedirecturl="https://www.google.com/url?q=http://caniuse.com/&amp;source=gmail&amp;ust=1461187346879000&amp;usg=AFQjCNHO2TVePGCvoDkny9LHyr0xVayLbw">caniuse</a>

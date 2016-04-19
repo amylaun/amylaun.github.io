@@ -3,14 +3,14 @@ layout: default
 ---
 
 <div class="wrapper--hero">
-    <a class="go-back" href="/"">Home</a>
+    <a class="go-back" href="/">Home</a>
     <div class="content-wrapper center">
         <span class="title">{{ page.title }}</span><br>
         <span class="title subtitle">{{ page.date | date: "%b %-d, %Y" }}</span>
     </div>
 </div>
 <div class="content-wrapper">
-    <div class="post-content" style="padding: 60px 0" itemprop="articleBody">
+    <div class="post-content" itemprop="articleBody">
         {{ content }}
     </div>
 </div>

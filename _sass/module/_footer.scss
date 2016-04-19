@@ -1,6 +1,6 @@
 .footer-wrapper {
-    background-color: rgba(199, 230, 54, .5);
-    color: #C0DE33;
+    background-color: $footerColor;
+    color: $footerColorFont;
     padding: 70px 20px;
     text-transform: uppercase;
     .icon {

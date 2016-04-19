@@ -451,19 +451,15 @@ h1, .h1 {
   font-size: 3em;
   font-weight: 700;
   font-family: "Montserrat", sans-serif;
-  line-height: 1.3em; }
+  line-height: 1.3em;
+  text-transform: uppercase; }
 
 h2, .h2 {
-  font-size: 2em;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.75em;
   font-weight: 700;
   line-height: 1.1em;
-  padding-bottom: 10px; }
-  @media (max-width: 780px) {
-    h2, .h2 {
-      font-size: 1.5em; } }
-  @media (max-width: 450px) {
-    h2, .h2 {
-      font-size: 1.2em; } }
+  text-transform: uppercase; }
 
 h3, .h3 {
   font-size: 1.5em;
@@ -486,6 +482,12 @@ p {
   margin-bottom: 20px; }
 
 /* Page Layout */
+html {
+  background-color: #B4D6D6; }
+
+.page-content {
+  background-color: white; }
+
 .full-wrapper {
   width: 100%;
   padding: 40px 0; }
@@ -549,13 +551,13 @@ p {
   font-weight: 700; }
 
 .light {
-  font-weight: 300; }
+  font-weight: 400; }
 
 .hide {
   display: none; }
 
 .footer-wrapper {
-  background-color: rgba(199, 230, 54, 0.5);
+  background-color: #E3F39B;
   color: #C0DE33;
   padding: 70px 20px;
   text-transform: uppercase; }
@@ -613,3 +615,23 @@ a {
     left: 20px;
     top: 20px;
     color: white; }
+
+.archive-list-wrapper {
+  padding: 20px 0; }
+
+.archive-list-item {
+  padding: 20px 0;
+  margin: 0; }
+
+.post-content {
+  font-family: "Quattrocento", sans-serif;
+  font-size: 16px;
+  line-height: 1.8em;
+  padding: 60px 0;
+  max-width: 740px;
+  margin: auto; }
+  .post-content h2 {
+    color: #b4d6d6; }
+  .post-content img {
+    margin: 20px 0;
+    max-width: 100%; }

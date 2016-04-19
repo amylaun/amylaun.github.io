@@ -1,4 +1,10 @@
 /* Page Layout */
+html {
+    background-color: $pageBackground;
+}
+.page-content {
+    background-color: white;
+}
 .full-wrapper {
     width: 100%;
     padding: 40px 0;
