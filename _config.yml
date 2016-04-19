@@ -23,6 +23,7 @@ sass:
     sass_dir: _assets/stylesheets/sass
 
 assets:
+  baseurl: http://amylaun.github.io/assets
   sources:
     - _assets/javascripts
     - _assets/stylesheets
