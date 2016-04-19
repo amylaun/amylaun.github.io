@@ -10,7 +10,7 @@ layout: default
 <div class="wrapper--home">
     <div class="content-wrapper center">
         {% for post in site.posts %}
-            <p style="padding: 20px 0;"><a class="post-link" href="{{ post.url | prepend: site.github.url }}">{{ post.title }} {{ post.date | date: "%b %-d, %Y" }}</a></p>
+            <p style="padding: 20px 0;"><a class="post-link" href="{{ post.url | prepend: site.github.url }}">{{ post.title }}&nbsp;&nbsp;|&nbsp;&nbsp;{{ post.date | date: "%b %-d, %Y" }}</a></p>
         {% endfor %}
     </div>
 </div>

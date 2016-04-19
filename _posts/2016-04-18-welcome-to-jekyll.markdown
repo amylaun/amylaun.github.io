@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Kiosk Tech Monthly"
 date:   2016-04-18 14:56:25 -0700
 categories: jekyll update
 ---
