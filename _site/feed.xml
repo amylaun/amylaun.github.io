@@ -5,8 +5,8 @@
     <description>Did you try a hard refresh?</description>
     <link>http://amylaun.github.io/</link>
     <atom:link href="http://amylaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 19 Apr 2016 15:41:03 -0700</pubDate>
-    <lastBuildDate>Tue, 19 Apr 2016 15:41:03 -0700</lastBuildDate>
+    <pubDate>Tue, 19 Apr 2016 17:03:40 -0700</pubDate>
+    <lastBuildDate>Tue, 19 Apr 2016 17:03:40 -0700</lastBuildDate>
     <generator>Jekyll v3.0.3</generator>
     
       <item>
@@ -27,8 +27,8 @@
 &lt;p&gt;&lt;a href=&quot;https://www.arduino.cc/en/Tutorial/SerialEvent&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.arduino.cc/en/Tutorial/SerialEvent&amp;amp;source=gmail&amp;amp;ust=1461187300967000&amp;amp;usg=AFQjCNG3Zzx58hv1huFmcWLJr8E1DoSVkg&quot;&gt;Serial&lt;/a&gt; &lt;a href=&quot;https://pythonhosted.org/pyserial/shortintro.html&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://pythonhosted.org/pyserial/shortintro.html&amp;amp;source=gmail&amp;amp;ust=1461187300967000&amp;amp;usg=AFQjCNHnf62Uh3DrWoLcSHDzw24phMHUQQ&quot;&gt;programming&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://www.arduino.cc/en/Reference/Wire&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.arduino.cc/en/Reference/Wire&amp;amp;source=gmail&amp;amp;ust=1461187300967000&amp;amp;usg=AFQjCNEHM2Z59WnyADDFvc0KxYZ2BBd4Tg&quot;&gt;BUS&lt;/a&gt; &lt;a href=&quot;https://en.wikipedia.org/wiki/I%C2%B2C&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://en.wikipedia.org/wiki/I%25C2%25B2C&amp;amp;source=gmail&amp;amp;ust=1461187300967000&amp;amp;usg=AFQjCNFv1uAxp20Tj7SIJ1HH80B3DXuCXg&quot;&gt;programming&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.nxp.com/files/sensors/doc/data_sheet/MPX5010.pdf&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=http://www.nxp.com/files/sensors/doc/data_sheet/MPX5010.pdf&amp;amp;source=gmail&amp;amp;ust=1461187300967000&amp;amp;usg=AFQjCNFi_gTkKiGd7I08UsEU4ibQQ2uGqA&quot;&gt;Water sensor programming example&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.kennethkuhn.com/electronics/debounce.c&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=http://www.kennethkuhn.com/electronics/debounce.c&amp;amp;source=gmail&amp;amp;ust=1461187300967000&amp;amp;usg=AFQjCNEPiw51VjYn5_XJcVl16IzzpnYMSQ&quot;&gt;Programming&lt;/a&gt; &lt;a href=&quot;http://www.ladyada.net/learn/arduino/lesson5.html&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=http://www.ladyada.net/learn/arduino/lesson5.html&amp;amp;source=gmail&amp;amp;ust=1461187300967000&amp;amp;usg=AFQjCNHqnMJiChRkeSRT2qaXSaJuHLYpYw&quot;&gt;buttons&lt;/a&gt; with &lt;a href=&quot;http://playground.arduino.cc/Learning/SoftwareDebounce&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=http://playground.arduino.cc/Learning/SoftwareDebounce&amp;amp;source=gmail&amp;amp;ust=1461187300967000&amp;amp;usg=AFQjCNGwFNNWKQGXTTBaJpbFy0wtgQV78Q&quot;&gt;debouncing&lt;/a&gt;!&lt;br /&gt;&lt;a href=&quot;https://www.raspberrypi.org/products/raspberry-pi-3-model-b/&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.raspberrypi.org/products/raspberry-pi-3-model-b/&amp;amp;source=gmail&amp;amp;ust=1461187300967000&amp;amp;usg=AFQjCNGyDvLWrW8Re-_rE8w_6z3xC1q-YQ&quot;&gt;RaspberryPi 3&lt;/a&gt; has onboard wifi and bluetooth&lt;/p&gt;
 </description>
         <pubDate>Wed, 16 Mar 2016 11:00:00 -0700</pubDate>
-        <link>http://amylaun.github.io/ktm/notes/2016/03/16/ktm.html</link>
-        <guid isPermaLink="true">http://amylaun.github.io/ktm/notes/2016/03/16/ktm.html</guid>
+        <link>http://amylaun.github.io/2016-03-16/</link>
+        <guid isPermaLink="true">http://amylaun.github.io/2016-03-16/</guid>
         
         
         <category>ktm</category>
@@ -56,8 +56,8 @@
 &lt;p&gt;&lt;a href=&quot;http://caniuse.com/&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=http://caniuse.com/&amp;amp;source=gmail&amp;amp;ust=1461187346879000&amp;amp;usg=AFQjCNHO2TVePGCvoDkny9LHyr0xVayLbw&quot;&gt;caniuse&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 20 Jan 2016 10:00:00 -0800</pubDate>
-        <link>http://amylaun.github.io/ktm/notes/2016/01/20/ktm.html</link>
-        <guid isPermaLink="true">http://amylaun.github.io/ktm/notes/2016/01/20/ktm.html</guid>
+        <link>http://amylaun.github.io/2016-01-20/</link>
+        <guid isPermaLink="true">http://amylaun.github.io/2016-01-20/</guid>
         
         
         <category>ktm</category>

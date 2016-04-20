@@ -16,6 +16,17 @@ github_username:  amylaun
 
 # Build settings
 markdown: kramdown
+permalink: "/:year-:month-:day/"
 
 gems:
   - octopress-autoprefixer
+  - contentful
+  - jekyll-contentful-data-import
+
+contentful:
+  spaces:
+    - notes: # Jekyll _data folder identifier - Required
+        space: qvfiijf2rzky        # Required
+        access_token: 15635f10b8df1908918745719c5fd639c981223a3b8226b282bbddbe8a8348a9 # Required
+        client_options:            # Optional
+          api_url: 'preview.contentful.com' # Defaults to 'api.contentful.com' which is Production

@@ -1,0 +1,52 @@
+---
+meetingNotes:
+- sys:
+    id: 2qpkCG8k9GcYgsUmki22KO
+  title: Other Meeting Notes
+  body: This is a test!
+  meetingDate: !ruby/object:DateTime 2016-04-20 00:00:00.000000000 Z
+  author:
+  - sys:
+      id: 5ioMybsEPKGaSycqUGKw4y
+- sys:
+    id: 6TsbloCifSoWqS8M8a4Yc4
+  title: Kiosk Tech Monthly 3/16/2016
+  body: |-
+    __Syadmin__
+    Zack is this thing officially!
+    Zack's favorite tool:
+    ![Paperclip](//images.contentful.com/qvfiijf2rzky/1kti73pT0GsagGAgC4GkMC/33c9b9d849787b12afd81cbd48ba2734/paperclip.jpg)
+
+    __JavaScript__
+    <https://github.com/tc39/ecma262>ECMA2016
+    meeting notes
+
+    __Angular 2.0__
+    TypeScript
+    ReactiveX
+    DefinitelyTyped
+    requestAnimationFrame
+    generator functions
+    a talk about concurrency in Ember, ~45m long, but good info for any framework.
+
+    Ecommerce
+    Shopify
+    Doh! If only they announced this a little earlier...
+    Google
+    Service Accounts
+    Python
+    threads!
+    Microcontroller Funtime
+    Serial programming
+    BUS programming
+    Water sensor programming example
+    Programming buttons with debouncing!
+    RaspberryPi 3 has onboard wifi and bluetooth
+  meetingDate: !ruby/object:DateTime 2016-03-16 00:00:00.000000000 Z
+  author:
+  - sys:
+      id: 5ioMybsEPKGaSycqUGKw4y
+author:
+- sys:
+    id: 5ioMybsEPKGaSycqUGKw4y
+  name: Amy Laun

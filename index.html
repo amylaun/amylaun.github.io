@@ -3,12 +3,16 @@ layout: default
 ---
 <div class="wrapper--hero">
     <div class="content-wrapper center">
-        <a class="site-title" href="{{ site.github.url }}/">{{ site.title }}</a>
+        <a class="site-title" href="#">{{ site.title }}</a>
     </div>
 </div>
 
 <div class="wrapper--home">
     <div class="content-wrapper archive-list-wrapper center">
+
+        {% for note in site.data.contentful.spaces.notes.meetingNotes %}
+            <!--p class="archive-list-item"><a href="#">{{ note.title }}</a></p-->
+        {% endfor %}
         {% for post in site.posts %}
             <p class="archive-list-item"><a class="post-link" href="{{ post.url | prepend: site.github.url }}">{{ post.date | date: "%B %-d, %Y" }}</a></p>
         {% endfor %}
